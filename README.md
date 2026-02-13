@@ -16,6 +16,12 @@ Mes compétences couvrent l'ensemble du cycle de développement ML : préparatio
 **Objectif** : Obtenir un poste de développeur junior en intelligence artificielle.
 
 ---
+
+## Compétences techniques
+
+**Langages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -34,6 +40,10 @@ Mes compétences couvrent l'ensemble du cycle de développement ML : préparatio
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
 ## Formation
 
 | Diplôme | Spécialité | Établissement | Période |
@@ -43,6 +53,11 @@ Mes compétences couvrent l'ensemble du cycle de développement ML : préparatio
 | Licence | Systèmes Informatiques | Université Abderrahmane Mira, Bejaia | 2018-2021 |
 
 ---
+
+## Projet principal
+
+### [Prédiction de la Réussite Étudiante](https://github.com/youneshamidouche6-art/mon_projet_reussite)
+
 API de prédiction utilisant un modèle de régression logistique pour identifier les étudiants à risque d'échec académique à partir de 36 variables socio-démographiques et académiques.
 
 **Technologies** : Python, Scikit-learn, Flask, Docker, Google Cloud Run
@@ -62,14 +77,18 @@ API de prédiction utilisant un modèle de régression logistique pour identifie
 ---
 
 
+
 ## Langues
 
 - **Français** : Courant
 - **Anglais** : Notions de base
 
+---
+
+## Contact
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/youneshamidouche6-art)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youneshamidouche6@gmail.com)
-
 
 
 Localisation : Gatineau, QC, Canada

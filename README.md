@@ -73,7 +73,6 @@ API de prédiction utilisant un modèle de régression logistique pour identifie
 - Pipeline ML optimisé avec GridSearchCV
 - Déploiement cloud via conteneurisation Docker
 
-**Précision du modèle** : ~95%
 **Précision du modèle** : 95%
 
 [![Voir le projet](https://img.shields.io/badge/Voir_le_projet-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/youneshamidouche6-art/mon_projet_reussite)

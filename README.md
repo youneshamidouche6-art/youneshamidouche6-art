@@ -7,7 +7,7 @@ Gatineau, QC, Canada
 
 ## À propos
 
-Étudiant en dernière session au programme **Intelligence Artificielle** à La Cité collégiale (Ottawa), avec un **Master en Administration et Sécurité des Réseaux**. Détenteur d'un **Master en Administration et Sécurité des Réseaux**.
+Étudiant en dernière session au programme **Intelligence Artificielle** à La Cité collégiale (Ottawa), détenteur d'un **Master en Administration et Sécurité des Réseaux**.
 
 Spécialisé dans le développement de modèles de Machine Learning, les pipelines de données et le déploiement d'applications via Docker et API REST.
 Mes compétences couvrent l'ensemble du cycle de développement ML : préparation des données, entraînement de modèles, optimisation et déploiement via Docker et API REST.

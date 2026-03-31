@@ -1,101 +1,52 @@
-# Younes Hamidouche
+# 👨‍💻 Younes Hamidouche
 
-**Étudiant en Intelligence Artificielle** | Développeur Machine Learning  
-Gatineau, QC, Canada
-
----
-
-## À propos
-
-Étudiant en dernière session au programme **Intelligence Artificielle** à La Cité collégiale (Ottawa), détenteur d'un **Master en Administration et Sécurité des Réseaux**.
-
-Spécialisé dans le développement de modèles de Machine Learning, les pipelines de données et le déploiement d'applications via Docker et API REST.
-Mes compétences couvrent l'ensemble du cycle de développement ML : préparation des données, entraînement de modèles, optimisation et déploiement via Docker et API REST.
-
-**Objectif** : Obtenir un poste de développeur junior en intelligence artificielle.
+**Ingénieur Junior en IA & NLP | Développeur Backend ML** 📍 Gatineau, QC, Canada | 🎓 M.Sc. Systèmes & Réseaux + DEC Intelligence Artificielle
 
 ---
 
-## Compétences techniques
+## 🚀 À propos de moi
 
-## 🛠️ Stack Technique
+Titulaire d'un Master en Administration et Sécurité des Réseaux et achevant une spécialisation en Intelligence Artificielle (La Cité), je combine la rigueur de l'ingénierie système avec les dernières avancées en Machine Learning. 
 
-### 👨‍💻 Langages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Je me spécialise dans la conception de **pipelines NLP**, l'optimisation de **LLMs** (Llama-3, RoBERTa) et le déploiement robuste d'applications via **Docker** et **FastAPI**. Fort de mon expérience terrain qui m'a appris la gestion stricte des imprévus et des délais, je conçois des solutions IA pensées pour la mise en production : du nettoyage de la donnée brute jusqu'à l'API RESTful.
 
-### 🤖 Machine Learning & Data
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### ☁️ Déploiement & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Bases de données & Outils
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
-
-## Formation
-
-| Diplôme | Spécialité | Établissement | Période |
-|---------|------------|---------------|----------|
-| DEC | Intelligence Artificielle | La Cité collégiale, Ottawa | 2024-2026 (en cours) |
-| Master | Administration et Sécurité des Réseaux | Université Abderrahmane Mira, Bejaia | 2021-2023 |
-| Licence | Systèmes Informatiques | Université Abderrahmane Mira, Bejaia | 2018-2021 |
+**🎯 Objectif actuel :** Rejoindre une équipe innovante (en télétravail ou hybride) pour industrialiser des modèles d'IA générative et d'analyse prédictive.
 
 ---
 
-## Projet principal
+## 🔬 Projets Phares
 
-### [Prédiction de la Réussite Étudiante](https://github.com/youneshamidouche6-art/mon_projet_reussite)
+### 1. Pipeline Industriel d'Analyse de Sentiments (ABSA)
+*Conception d'un pipeline complet pour extraire et classifier les aspects/sentiments de **20 000 avis clients**.*
+* **NLP & Topic Modeling :** Nettoyage des données textuelles et extraction des thématiques via l'algorithme LDA.
+* **IA Générative (Pseudo-labeling) :** Utilisation de **Llama-3-8B** optimisé avec **Unsloth** (quantification 4-bit) pour générer des étiquettes à moindre coût de calcul.
+* **Fine-Tuning pour la production :** Ajustement d'un modèle **XLM-RoBERTa** pour la classification finale, évalué sur un "Gold Standard" de 400 avis créés manuellement.
 
-API de prédiction utilisant un modèle de régression logistique pour identifier les étudiants à risque d'échec académique à partir de 36 variables socio-démographiques et académiques.
-
-**Technologies** : Python, Scikit-learn, Flask, Docker, Google Cloud Run
-
-**Caractéristiques** :
-**Fonctionnalités** :
-- Endpoint `/health` pour la vérification du service
-- Endpoint `/predict` pour les prédictions en temps réel
-- Pipeline ML optimisé avec GridSearchCV
-- Déploiement cloud via conteneurisation Docker
-
-**Précision du modèle** : 95%
-
-[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/youneshamidouche6-art/mon_projet_reussite)
+### 2. Recherche en Vision par Ordinateur : Étude d'Ablation 
+*Analyse approfondie de l'architecture générative.*
+* **Modèle étudié :** Stable Diffusion.
+* **Travail réalisé :** Manipulation et étude de l'impact des hyperparamètres critiques (comme `eta` et `clip_skip`) pour comprendre les mécanismes sous-jacents de la génération d'images.
 
 ---
 
+## 🛠️ Stack Technique & Outils
 
+### 🧠 Intelligence Artificielle & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+* **Compétences :** RAG, Fine-tuning (BERT/RoBERTa), LLMs (Llama), Prompt Engineering, Topic Modeling (LDA).
 
-## Langues
-
-- **Français** : Courant
-- **Anglais** : Notions de base
+### ⚙️ MLOps, Backend & Déploiement
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+* **Compétences :** Création d'API RESTful, Conteneurisation, Intégration continue, Réseaux & Sécurité.
 
 ---
 
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/youneshamidouche6-art)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youneshamidouche6@gmail.com)
-
-
-Localisation : Gatineau, QC, Canada
-
----
-
-Ouvert aux opportunités de stage et postes juniors en intelligence artificielle, Machine Learning et science des données.
+📫 **Comment me contacter :** N'hésitez pas à me joindre via [LinkedIn](Insérez votre lien ici) ou à explorer mes dépôts de code ci-dessous !

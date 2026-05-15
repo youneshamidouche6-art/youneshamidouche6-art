@@ -54,11 +54,8 @@ Je me spécialise dans la conception de **pipelines NLP**, l'intégration d'**Ag
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 * **Compétences :** Conteneurisation, CI/CD (GitHub Actions), Création d'API RESTful, Architecture de microservices, Réseaux et Sécurité.
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-* **Compétences :** CI/CD (GitHub Actions), Création d'API RESTful, Architecture de microservices.
 
 ---
 
